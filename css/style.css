@@ -8,9 +8,8 @@ body {
   margin: 0;
 }
 header, footer {
-
-  background-color: #ffa500;
-  text-align: left;
+  background-color: #00a6ff;
+  text-align: center;
   /*  min-width: 500px; */
 }
 header {
@@ -81,7 +80,7 @@ font-family: 'Work Sans';
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#0877e6;
 }
 
 .myButton:active {
